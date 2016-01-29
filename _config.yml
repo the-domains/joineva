@@ -1,7 +1,7 @@
 name: joineva
 favicon: null
-layout_spectrum: 0.9381833469960839
-typography_spectrum: 0.2789067756384611
+layout_spectrum: 1
+typography_spectrum: 0.01604
 cta:
   domain: null
   bucket: null
