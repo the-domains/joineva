@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[joineva]]></title>
-        <description><![CDATA[joineva]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[Let's Change The World]]></title>
+        <description><![CDATA[Let's Change The World]]></description>
+        <link>https://thegrid.ai/joineva/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 29 Jan 2016 20:38:30 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 31 Aug 2016 18:10:59 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/joineva/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>1st Post</p>]]></description>
-            <link>undefinedf7f1d92e-a50b-4cb6-9616-6e8c95d347d3/index.html</link>
+            <link>https://thegrid.ai/joineva/f7f1d92e-a50b-4cb6-9616-6e8c95d347d3/index.html</link>
             <guid isPermaLink="false">f7f1d92e-a50b-4cb6-9616-6e8c95d347d3</guid>
-            <pubDate>Fri, 29 Jan 2016 20:37:38 GMT</pubDate>
+            <pubDate>Wed, 31 Aug 2016 18:10:57 GMT</pubDate>
         </item>
     </channel>
 </rss>
