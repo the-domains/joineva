@@ -1,19 +1,4 @@
-name: joineva
-favicon: null
-layout_spectrum: 1
 typography_spectrum: 0.01604
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#E0FBFC'
@@ -25,4 +10,20 @@ color:
   lightness: 0.20466652838513255
   saturation: 0.03274351358413696
   rhythmicContrast: 0.13423613877967
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 1
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: joineva
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: Really
 purpose: []
